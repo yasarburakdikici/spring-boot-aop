@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: ybd
+Build-Jdk: 11.0.7
+Implementation-Title: SpringBoot
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.javainuse
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-ao
+ p/
+Created-By: Maven Integration for Eclipse
+
